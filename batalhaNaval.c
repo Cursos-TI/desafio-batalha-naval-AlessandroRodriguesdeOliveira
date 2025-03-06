@@ -11,7 +11,7 @@ int main(){
 
         -> int tabuleiro[][]: Matriz para o campo de batalha naval.
         -> int navio(algo)[]: Navios.tabuleiro
-        -> int coordenadas(algo): Coordenadas de navio os áreas de habilidades.
+        -> int coordenadas(algo): Coordenadas de navios ou das áreas de habilidades.
         
 
     Retornos:
